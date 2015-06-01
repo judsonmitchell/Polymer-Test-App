@@ -1,0 +1,20 @@
+{
+  "name": "app",
+  "main": "app.js",
+  "version": "0.0.0",
+  "description": "testing polymer",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5"
+  }
+}
